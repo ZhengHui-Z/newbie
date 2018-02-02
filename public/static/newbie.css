@@ -1,0 +1,167 @@
+    html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    border: 0;
+    position: relative;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline
+}
+
+.nb-fl{
+    float: left;
+}
+.nb-fr{
+    float: right;
+}
+.nb-fl::after,.nb-fr::after{
+    clear: both
+}
+@-ms-viewport {
+    width: device-width;
+}
+
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -ms-overflow-style: scrollbar;
+}
+
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+/* 顶部展示面板*/
+
+/*顶部*/
+
+.top {
+    height: 5rem;
+    width: 100%;
+    background: rgba(1, 247, 249, .8);
+}
+
+.affix {
+    position: fixed;
+    top: 0px;
+    z-index: 11111;
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+.affix-top {
+      position: static;
+      top: -5rem;
+}
+/*全宽度容器*/
+.nb-container-fluid {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+}
+/*主体++侧边栏*/
+
+.nb-container {
+    margin: 1rem auto 10px;
+    padding: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.nb-container .nb_content-area{
+    width: 70.4%;
+    transition-duration: .5s;
+}
+.nb-container .nb_sidebar{
+    width: 28.6%;
+}
+@media (max-width: 1500px) {
+    .nb-container {
+        width: 98%;
+    }
+    .nb-container .nb_sidebar{
+        display: none;
+    }
+    .nb-container .nb_content-area{
+    width: 100%;
+    transition-duration: .5s;
+}
+}
+
+@media (min-width: 1500px) {
+    .nb-container {
+        width: 90rem;
+        max-width: 100%;
+    }
+}
+/*cms样式文章布局*/
+.cms-post-grid {
+    min-height: 5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cms-post-grid .post {
+    width: 50%;
+    box-shadow: none;
+    border: 1px solid #ddd;
+}
+
+@media screen and (max-width: 1080px) {
+    .cms-post-grid .post {
+        width: 100%;
+    }
+}
+/*卡片样式布局*/
+.card-4col-grid{
+    min-height: 5px;
+    margin: 0 -8px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-4col-grid .card{
+    width: 25%;
+    padding: 0 8px;
+    margin-top: 5px;
+}
+@media screen and (max-width: 1080px) {
+    .card-4col-grid .card{
+        width: 33.33%;
+    }
+}
+@media screen and (max-width: 700px) {
+    .card-4col-grid .card{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 410px) {
+    .card-4col-grid .card{
+        width: 100%;
+    }
+}
+/*底部*/
+.footer {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* bootstrap start*/
+
+/* bootstrap end*/

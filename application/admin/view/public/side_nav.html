@@ -1,0 +1,63 @@
+<div class="layui-side">
+    <div class="layui-side-scroll layui-bg-black">
+        <ul class="layui-nav layui-nav-tree" lay-filter="side">
+            <li class="layui-nav-header">
+                <input type="text" name="search" autocomplete="off" placeholder="搜索" class="layui-input">
+                <button class="layui-btn"><i class="layui-icon">&#xe615;</i></button>
+            </li>
+            <li class="layui-nav-item layui-nav-itemed">
+                <a href="javascript:;">
+                    <i class="layui-icon">&#xe636;</i>
+                    <span>网站</span>
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="{:url('Admin/Index/index')}">基本信息</a></dd>
+                    <dd><a href="{:url('Admin/Index/setting')}">系统设置</a></dd>
+                </dl>
+            </li>
+            <li class="layui-nav-item layui-nav-itemed">
+                <a href="javascript:;">
+                    <i class="layui-icon"></i>
+                    <span>菜单</span>
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="{:url('Admin/Menu/manage')}">菜单管理</a></dd>
+                    <dd><a href="{:url('Admin/Menu/setting')}">菜单设置</a></dd>
+                </dl>
+            </li>
+            <li class="layui-nav-item layui-nav-itemed">
+                <a href="javascript:;">
+                    <i class="layui-icon"></i>
+                    <span>文章</span>
+                    <span class="layui-nav-more"></span>
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="{:url('Admin/Article/index')}">文章管理</a></dd>
+                    <dd><a href="{:url('Admin/Article/write')}">写文章</a></dd>
+                    <dd><a href="{:url('Admin/Article/comment')}">评论管理</a></dd>
+                </dl>
+            </li>
+            <li class="layui-nav-item layui-nav-itemed">
+                <a href="javascript:;">
+                    <i class="layui-icon"></i>
+                    <span>用户</span>
+                    <span class="layui-nav-more"></span>
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="{:url('Admin/User/manage')}">用户管理</a></dd>
+                    <dd><a href="{:url('Admin/User/record')}">操作记录</a></dd>
+                </dl>
+            </li>
+            <li class="layui-nav-item layui-nav-itemed">
+                <a href="javascript:;">
+                    <i class="layui-icon"></i>
+                    <span>扩展</span>
+                    <span class="layui-nav-more"></span>
+                </a>
+                <dl class="layui-nav-child">
+                    <dd><a href="{:url('Admin/Extend/backup')}">数据备份</a></dd>
+                    <dd><a href="{:url('Admin/Extend/cache')}">清理缓存</a></dd>
+                </dl>
+            </li>
+    </div>
+</div>

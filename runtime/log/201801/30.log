@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2018-01-30T13:57:06+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.546100s][吞吐率：1.83req/s] [内存消耗：1,094.39kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-30T13:57:06+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.043663s][吞吐率：22.90req/s] [内存消耗：898.82kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'referer' => 'http://www.nb.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File

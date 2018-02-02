@@ -1,0 +1,94 @@
+{extend name="base" /}
+{block name="title"}后台管理-文章
+{/block}
+    {block name="head_resource"}
+    {css href="__PUBLIC__/layui/markdown/markdown-editor.css"/}
+    {css href="__PUBLIC__/layui/markdown/markdown.css" /}
+    {css href="__PUBLIC__/layui/markdown/prism.css" /}
+{/block}
+{block name="style"}
+<style>
+    .layui-form-label {
+        float: left;
+        padding: 9px 0px;
+        text-align: left;
+    }
+</style>
+{block}
+{block name="main"}
+    {include file="article/templet/write_article_main" /}
+{/block}
+{block name="footer_resource"}
+    {js href="__PUBLIC__/layui/markdown/clipboard.min.js" /}
+    {js href="__PUBLIC__/layui/markdown/Parser.js" /}
+    {js href="__PUBLIC__/layui/markdown/prism.js"/}
+{/block}
+{block name="script"}
+<script>
+    layui.config({
+        base: '__PUBLIC__/layui/lay/modules/'
+    }).use(['layer', 'element', 'jquery', 'form', 'markdown'], function () {
+        var layer = layui.layer,
+            element = layui.element,
+            $ = layui.jquery,
+            form = layui.form,
+            markdown = layui.markdown;
+        markdown.build("layui_md", 'markdown_html', {
+            image_upload_action: '#',
+            height: '666px',
+            required: true,
+        });
+        var isSwitch = 0;
+        var isOrigin = 1;
+        //监听指定开关
+        form.on('switch(switchTest)', function () {
+            if (this.checked) {
+                isSwitch = 1;
+                $("#haspass").css('display', 'inline-block');
+                $("#haspass").attr('lay-verify', 'required');
+            }
+            else {
+                isSwitch = 0;
+                $("#haspass").css('display', 'none');
+                $("#haspass").removeAttr('lay-verify');
+            }
+        });
+        form.on('switch(art_origin)', function () {
+            if (this.checked) { isOrigin = 1; }
+            else { isOrigin = 0; }
+        });
+        //origin
+        layer.msg('后台加载成功');
+        $("#submitTest").click(function () {
+            console.log($('#layui-markdown-textarea').val());
+            console.log($('#layui-markdown-show').html());
+            var data = {
+                "art_title": $("input[name='title']").val(),
+                "art_excerpt": $("textarea[name='excerpt']").val(),
+                "art_content": $('#layui-markdown-textarea').val(),
+                "art_content_md": $('#layui-markdown-show').html(),
+                "art_original": isOrigin,
+                "art_password": "",
+                "art_img": ""
+            };
+            if (isSwitch) data['art_password'] = $("#haspass").val();
+            console.log(data);
+            layer.msg("正在提交");
+            $.ajax({
+                data: data,//提交数据
+                type: "Post",//提交方式
+                dataType: "json",//服务器返回数据格式
+                url: "{:url('Admin/Article/add')}",
+                success: function (info) {
+                    layer.msg(info.msg, { icon: 1, time: 500 });
+                    console.log(info);
+                },
+                error: function (info) {
+                    layer.msg('炸了' + info.msg);
+                }
+            });
+        });
+
+    });
+</script>
+{/block}

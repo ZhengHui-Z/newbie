@@ -1,0 +1,50 @@
+<div style="padding-left: 5px;padding-top: 5px;">
+    <div class="layui-tab-item layui-show">
+        <div class="layui-markdown-container">
+            <div class="layui-markdown-edit layui-markdown-scroll">
+                <form class="layui-form post-add-action" action="javascript:;">
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">文章标题</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="title" required lay-verify="required" placeholder="请输入标题" autocomplete="off" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item layui-form-text">
+                        <label class="layui-form-label">文章摘要</label>
+                        <div class="layui-input-block">
+                            <textarea name="excerpt" required placeholder="100字以内" lay-verify="required" class="layui-textarea"></textarea>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">密码访问</label>
+                        <div class="layui-input-block">
+                            <input type="checkbox" name="switch" lay-skin="switch" lay-filter="switchTest" lay-text="ON|OFF">
+                        </div>
+                    </div>
+                    <div>
+                        <input id="haspass" type="text" placeholder="输入密码" autocomplete="off" class="layui-input" style="width: 15rem;display: none;margin-left: 50px;">
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">是否原创</label>
+                        <div class="layui-input-block">
+                            <input type="checkbox" checked="" name="switch" lay-skin="switch" lay-filter="post_origin" lay-text="原|转">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">文章正文</label>
+                    </div>
+                    <div class="layui-form-item">
+                        <div id="layui_md"></div>
+                    </div>
+                    <div class="layui-form-item">
+                        <button id="submitTest" class="layui-btn" lay-submit="">立即提交</button>
+                        <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+                    </div>
+                </form>
+            </div>
+            <div class="layui-markdown-preview">
+                <div id="markdown_html" style="height: 100%;"></div>
+            </div>
+        </div>
+    </div>
+</div>

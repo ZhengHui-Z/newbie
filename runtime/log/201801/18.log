@@ -1,0 +1,3191 @@
+---------------------------------------------------------------
+[ 2018-01-18T00:20:20+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.027829s][吞吐率：35.93req/s] [内存消耗：1,094.32kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:20:20+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.021899s][吞吐率：45.66req/s] [内存消耗：898.69kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:20:21+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.nb.com/favicon.ico [运行时间：0.020577s][吞吐率：48.60req/s] [内存消耗：898.64kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:26:57+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.029734s][吞吐率：33.63req/s] [内存消耗：1,094.62kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:26:57+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.025743s][吞吐率：38.85req/s] [内存消耗：898.69kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:39:53+08:00 ] 127.0.0.1 GET /Admin/extend/backup.html
+[ info ] www.nb.com/Admin/extend/backup.html [运行时间：0.422232s][吞吐率：2.37req/s] [内存消耗：1,251.91kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\extend\data_backup.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:39:56+08:00 ] 127.0.0.1 GET /Admin/extend/backup.html
+[ info ] www.nb.com/Admin/extend/backup.html [运行时间：0.022299s][吞吐率：44.85req/s] [内存消耗：1,128.95kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/extend/backup.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\extend\data_backup.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:39:57+08:00 ] 127.0.0.1 GET /Admin/extend/backup.html
+[ info ] www.nb.com/Admin/extend/backup.html [运行时间：0.023288s][吞吐率：42.94req/s] [内存消耗：1,128.95kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/extend/backup.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\extend\data_backup.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:39:57+08:00 ] 127.0.0.1 GET /Admin/extend/cache.html
+[ info ] www.nb.com/Admin/extend/cache.html [运行时间：0.021925s][吞吐率：45.61req/s] [内存消耗：1,252.22kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/extend/backup.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\extend\cache_clear.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:39:59+08:00 ] 127.0.0.1 GET /Admin/user/record.html
+[ info ] www.nb.com/Admin/user/record.html [运行时间：0.026336s][吞吐率：37.97req/s] [内存消耗：1,128.88kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/extend/cache.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\user\user_record.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:39:59+08:00 ] 127.0.0.1 GET /Admin/user/manage.html
+[ info ] www.nb.com/Admin/user/manage.html [运行时间：0.022838s][吞吐率：43.79req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/user/record.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\user\user_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:01+08:00 ] 127.0.0.1 GET /Admin/article/comment.html
+[ info ] www.nb.com/Admin/article/comment.html [运行时间：0.022692s][吞吐率：44.07req/s] [内存消耗：1,269.30kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/user/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_comment.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:01+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.020730s][吞吐率：48.24req/s] [内存消耗：1,158.94kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/comment.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:02+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.021095s][吞吐率：47.40req/s] [内存消耗：1,150.22kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:02+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.016854s][吞吐率：59.33req/s] [内存消耗：1,016.16kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:02+08:00 ] 127.0.0.1 GET /Admin/menu/setting.html
+[ info ] www.nb.com/Admin/menu/setting.html [运行时间：0.023013s][吞吐率：43.45req/s] [内存消耗：1,128.88kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_setting.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:04+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.019813s][吞吐率：50.47req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/setting.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:05+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.020787s][吞吐率：48.11req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:06+08:00 ] 127.0.0.1 GET /Admin/menu/setting.html
+[ info ] www.nb.com/Admin/menu/setting.html [运行时间：0.019752s][吞吐率：50.63req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_setting.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:07+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.022830s][吞吐率：43.80req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/setting.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:07+08:00 ] 127.0.0.1 GET /Admin/index/setting.html
+[ info ] www.nb.com/Admin/index/setting.html [运行时间：0.022565s][吞吐率：44.32req/s] [内存消耗：1,257.34kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\index\setting.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:40:08+08:00 ] 127.0.0.1 GET /Admin/index/index.html
+[ info ] www.nb.com/Admin/index/index.html [运行时间：0.029166s][吞吐率：34.29req/s] [内存消耗：1,137.61kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/index/setting.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\index\index.html [ array (
+  0 => 'server_info',
+  1 => 'now_info',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:44:36+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.074485s][吞吐率：13.43req/s] [内存消耗：1,252.20kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:44:48+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027591s][吞吐率：36.24req/s] [内存消耗：1,158.94kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:44:50+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018748s][吞吐率：53.34req/s] [内存消耗：1,017.09kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '97',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '',
+  'post_excerpt' => '',
+  'post_content' => '',
+  'post_content_md' => '',
+  'post_original' => '1',
+  'post_password' => '',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:56:27+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018954s][吞吐率：52.76req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:56:29+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018986s][吞吐率：52.67req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:56:29+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018264s][吞吐率：54.75req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:56:30+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.017284s][吞吐率：57.86req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:59:10+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021278s][吞吐率：47.00req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:59:11+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018876s][吞吐率：52.98req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T00:59:15+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.020006s][吞吐率：49.99req/s] [内存消耗：1,017.27kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:04:47+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019574s][吞吐率：51.09req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:04:49+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021802s][吞吐率：45.87req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:06:11+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019350s][吞吐率：51.68req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '205',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => 'fgsfdgsfdgsfdgsdf',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:08:40+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019402s][吞吐率：51.54req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '206',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => '密码',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:08:56+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019696s][吞吐率：50.77req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '206',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => '密码',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:09:11+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019664s][吞吐率：50.85req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '206',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => '密码',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:09:13+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.017065s][吞吐率：58.60req/s] [内存消耗：1,017.02kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '206',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => 'fdgfgf',
+  'post_excerpt' => 'fgddfgsdfgsd',
+  'post_content' => 'sdfgsfdgsfdgsdfgsfdgsfdgsfdg',
+  'post_content_md' => '<p>sdfgsfdgsfdgsdfgsfdgsfdgsfdg</p>',
+  'post_original' => '1',
+  'post_password' => '密码',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:09:16+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.079295s][吞吐率：12.61req/s] [内存消耗：1,293.34kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:09:52+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019704s][吞吐率：50.75req/s] [内存消耗：1,028.74kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4206',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '标题',
+  'post_excerpt' => '摘要',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:12:18+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.028135s][吞吐率：35.54req/s] [内存消耗：1,293.34kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:12:32+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018382s][吞吐率：54.40req/s] [内存消耗：1,028.74kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:45:25+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.390724s][吞吐率：2.56req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:05+08:00 ] 127.0.0.1 GET /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022405s][吞吐率：44.63req/s] [内存消耗：1,016.78kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:48:13+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.020088s][吞吐率：49.78req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:14+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018918s][吞吐率：52.86req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:15+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019602s][吞吐率：51.02req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:16+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022702s][吞吐率：44.05req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:16+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022299s][吞吐率：44.84req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:17+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022411s][吞吐率：44.62req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:18+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021293s][吞吐率：46.96req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4296',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'post_title' => '更丰富更符合',
+  'post_excerpt' => '撒大声地所多所多',
+  'post_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'post_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'post_original' => '1',
+  'post_password' => 'mima',
+  'post_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: art_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:28]
+---------------------------------------------------------------
+[ 2018-01-18T01:48:20+08:00 ] 127.0.0.1 GET /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021360s][吞吐率：46.82req/s] [内存消耗：1,016.78kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:49:19+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.025507s][吞吐率：39.20req/s] [内存消耗：1,295.22kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:50:22+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.069452s][吞吐率：14.40req/s] [内存消耗：1,068.06kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '6971',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '凤凰台上忆吹箫·香冷金猊',
+  'art_excerpt' => '译文
+铸有狻猊提钮的铜炉里，熏香已经冷透，红色的锦被乱堆床头，如同波浪一般，我也无心去收。早晨起来，懒洋洋不想梳头。任凭华贵的梳妆匣落满灰尘，任凭朝阳的日光照上帘钩。我生怕想起离别的痛苦，有多少话要向他倾诉，可刚要说又不忍开口。新近渐渐消瘦起来，不是因为喝多了酒，也不是因为秋天的影响。算了罢，算了罢，这次他必须要走，即使唱上一万遍《阳关》离别曲，也无法将他挽留。想到心上人就要远去，剩下我独守空楼了，只有那楼前的流水，应顾念着我，映照着我整天注目凝眸。就在凝眸远眺的时候，从今而后，又平添一段日日盼归的新愁。',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '1',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'dsfdsfdsfd',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:50:28+08:00 ] 127.0.0.1 GET /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.017426s][吞吐率：57.39req/s] [内存消耗：1,016.78kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:53:58+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.023711s][吞吐率：42.17req/s] [内存消耗：1,160.63kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:54:00+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.020167s][吞吐率：49.59req/s] [内存消耗：1,160.63kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:54:00+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.023165s][吞吐率：43.17req/s] [内存消耗：1,160.63kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:54:15+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.020123s][吞吐率：49.69req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4651',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊',
+  'art_excerpt' => '香冷金猊',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '0',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'sfsdefsdfdsf',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:54:16+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.020446s][吞吐率：48.91req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4651',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊',
+  'art_excerpt' => '香冷金猊',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '0',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'sfsdefsdfdsf',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:54:16+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.023462s][吞吐率：42.62req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4651',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊',
+  'art_excerpt' => '香冷金猊',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '0',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'sfsdefsdfdsf',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:54:36+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022658s][吞吐率：44.13req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4651',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊',
+  'art_excerpt' => '香冷金猊',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '1',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'sfsdefsdfdsf',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:54:37+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022466s][吞吐率：44.51req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4651',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊',
+  'art_excerpt' => '香冷金猊',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '1',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'sfsdefsdfdsf',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:54:45+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021286s][吞吐率：46.98req/s] [内存消耗：1,066.31kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '4651',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊',
+  'art_excerpt' => '香冷金猊',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+
+香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p><p>香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。<br>明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)</p>',
+  'art_original' => '1',
+  'art_password' => '',
+  'art_img' => '',
+  'post_password' => 'sfsdefsdfdsf',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:55:15+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027180s][吞吐率：36.79req/s] [内存消耗：1,295.22kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:55:42+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.029753s][吞吐率：33.61req/s] [内存消耗：1,061.56kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3555',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊香冷金猊香冷金猊',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'sfsdfdsfdsfd54',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:55:43+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021141s][吞吐率：47.30req/s] [内存消耗：1,061.56kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3555',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊香冷金猊香冷金猊',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'sfsdfdsfdsfd54',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:55:44+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022328s][吞吐率：44.79req/s] [内存消耗：1,061.56kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3555',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '香冷金猊香冷金猊香冷金猊',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来人未梳头。任宝奁闲掩，日上帘钩。生怕闲愁暗恨，多少事、欲说还休。今年瘦，非干病酒，不是悲秋。
+明朝，者回去也，千万遍阳关，也即难留。念武陵春晚，云锁重楼。记取楼前绿水，应念我、终日凝眸。凝眸处，从今更数，几段新愁。(版本二)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)
+',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'sfsdfdsfdsfd54',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:55:54+08:00 ] 127.0.0.1 GET /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.021970s][吞吐率：45.52req/s] [内存消耗：1,016.78kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:59:36+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027074s][吞吐率：36.94req/s] [内存消耗：1,295.66kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T01:59:54+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.025488s][吞吐率：39.23req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:59:55+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.023441s][吞吐率：42.66req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:59:55+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.024472s][吞吐率：40.86req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:59:56+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.022099s][吞吐率：45.25req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:59:56+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.023100s][吞吐率：43.29req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T01:59:57+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.023922s][吞吐率：41.80req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T02:00:01+08:00 ] 127.0.0.1 GET /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.024918s][吞吐率：40.13req/s] [内存消耗：1,017.22kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:00:42+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.026281s][吞吐率：38.05req/s] [内存消耗：1,062.00kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3497',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '一段新愁',
+  'art_excerpt' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content' => '香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。
+休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)',
+  'art_content_md' => '<p>香冷金猊，被翻红浪，起来慵自梳头。任宝奁尘满，日上帘钩。生怕离怀别苦，多少事、欲说还休。新来瘦，非干病酒，不是悲秋。<br>休休，这回去也，千万遍《阳关》，也则难留。念武陵人远，烟锁秦楼。惟有楼前流水，应念我、终日凝眸。凝眸处，从今又添，一段新愁。(版本一)</p>',
+  'art_original' => '1',
+  'art_password' => 'dgfdfgfdg54kj',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T02:08:11+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027952s][吞吐率：35.78req/s] [内存消耗：1,295.66kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:08:19+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.025520s][吞吐率：39.19req/s] [内存消耗：1,055.63kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '127',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'data',
+  'art_excerpt' => 'data',
+  'art_content' => 'data',
+  'art_content_md' => '<p>data</p>',
+  'art_original' => '1',
+  'art_password' => 'data',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T02:09:00+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.024399s][吞吐率：40.99req/s] [内存消耗：1,068.50kb] [文件加载：58]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '6278',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '是范德萨范德萨发的',
+  'art_excerpt' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'art_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'art_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'art_original' => '1',
+  'art_password' => 'gffgfdgfdgfd',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: post_title[G:\web\phpStudy\PHPTutorial\WWW\newbie\application\admin\controller\Article.php:30]
+---------------------------------------------------------------
+[ 2018-01-18T02:11:19+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.025916s][吞吐率：38.59req/s] [内存消耗：1,030.77kb] [文件加载：53]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '6278',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '是范德萨范德萨发的',
+  'art_excerpt' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'art_content' => 'layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。',
+  'art_content_md' => '<p>layui（谐音：类UI) 是一款采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写与组织形式，门槛极低，拿来即用。其外在极简，却又不失饱满的内在，体积轻盈，组件丰盈，从核心代码到 API 的每一处细节都经过精心雕琢，非常适合界面的快速开发。layui 首个版本发布于2016年金秋，她区别于那些基于 MVVM 底层的 UI 框架，却并非逆道而行，而是信奉返璞归真之道。准确地说，她更多是为服务端程序员量身定做，你无需涉足各种前端工具的复杂配置，只需面对浏览器本身，让一切你所需要的元素与交互，从这里信手拈来。</p>',
+  'art_original' => '1',
+  'art_password' => 'gffgfdgfdgfd',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:13:25+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.030650s][吞吐率：32.63req/s] [内存消耗：1,160.59kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:13:32+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.017561s][吞吐率：56.94req/s] [内存消耗：1,018.87kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '185',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'sdfgfdsgdsfgsd',
+  'art_excerpt' => 'sfdgsdfgsfdg',
+  'art_content' => 'dgadfgdsfgdsfgsdfg',
+  'art_content_md' => '<p>dgadfgdsfgdsfgsdfg</p>',
+  'art_original' => '1',
+  'art_password' => 'fdgsdfgsdfgsfdfg',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:13:39+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.018826s][吞吐率：53.12req/s] [内存消耗：1,018.87kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '185',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'sdfgfdsgdsfgsd',
+  'art_excerpt' => 'sfdgsdfgsfdg',
+  'art_content' => 'dgadfgdsfgdsfgsdfg',
+  'art_content_md' => '<p>dgadfgdsfgdsfgsdfg</p>',
+  'art_original' => '1',
+  'art_password' => 'fdgsdfgsdfgsfdfg',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:16:12+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019056s][吞吐率：52.48req/s] [内存消耗：1,018.87kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '185',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'sdfgfdsgdsfgsd',
+  'art_excerpt' => 'sfdgsdfgsfdg',
+  'art_content' => 'dgadfgdsfgdsfgsdfg',
+  'art_content_md' => '<p>dgadfgdsfgdsfgsdfg</p>',
+  'art_original' => '1',
+  'art_password' => 'fdgsdfgsdfgsfdfg',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:18:11+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.019205s][吞吐率：52.07req/s] [内存消耗：1,018.87kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '185',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'sdfgfdsgdsfgsd',
+  'art_excerpt' => 'sfdgsdfgsfdg',
+  'art_content' => 'dgadfgdsfgdsfgsdfg',
+  'art_content_md' => '<p>dgadfgdsfgdsfgsdfg</p>',
+  'art_original' => '1',
+  'art_password' => 'fdgsdfgsdfgsfdfg',
+  'art_img' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:35:28+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.194300s][吞吐率：5.15req/s] [内存消耗：1,916.19kb] [文件加载：67]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '185',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'sdfgfdsgdsfgsd',
+  'art_excerpt' => 'sfdgsdfgsfdg',
+  'art_content' => 'dgadfgdsfgdsfgsdfg',
+  'art_content_md' => '<p>dgadfgdsfgdsfgsdfg</p>',
+  'art_original' => '1',
+  'art_password' => 'fdgsdfgsdfgsfdfg',
+  'art_img' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.070066s ] mysql:host=127.0.0.1;dbname=newbie;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nb_article` [ RunTime:0.050880s ]
+[ sql ] [ SQL ] INSERT INTO `nb_article` (`art_title` , `art_author` , `art_img` , `art_date` , `art_content` , `art_content_md` , `art_excerpt` , `art_status` , `art_comment_status` , `art_password` , `art_name` , `art_modified` , `art_type` , `art_comment_count` , `art_view` , `art_original`) VALUES ('sdfgfdsgdsfgsd' , 0 , '' , 1516214128 , 'dgadfgdsfgdsfgsdfg' , '<p>dgadfgdsfgdsfgsdfg</p>' , 'sfdgsdfgsfdg' , '1' , 1 , 'fdgsdfgsdfgsfdfg' , '666' , 1516214128 , '1' , 0 , 1 , 1) [ RunTime:0.034892s ]
+---------------------------------------------------------------
+[ 2018-01-18T02:40:46+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.423363s][吞吐率：2.36req/s] [内存消耗：1,931.13kb] [文件加载：67]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '2489',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => 'PHP time() 函数',
+  'art_excerpt' => '实例
+返回当前时间的 Unix 时间戳，并格式化为日期：',
+  'art_content' => '
+```lang-php
+<?php
+$t=time();
+echo($t . "<br>");
+echo(date("Y-m-d",$t));
+?>
+```
+',
+  'art_content_md' => '<pre data-start="1" class="line-numbers language-php code-toolbar" style="counter-reset: linenumber 0;"><code class=" language-php"><span class="token php"><span class="token delimiter">&lt;?php</span>
+<span class="token variable">$t</span><span class="token operator">=</span><span class="token function">time</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">echo</span><span class="token punctuation">(</span><span class="token variable">$t</span> <span class="token punctuation">.</span> <span class="token string">"&lt;br&gt;"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">echo</span><span class="token punctuation">(</span><span class="token function">date</span><span class="token punctuation">(</span><span class="token string">"Y-m-d"</span><span class="token punctuation">,</span><span class="token variable">$t</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token delimiter">?&gt;</span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code><div class="toolbar"><div class="toolbar-item"><a>Copy</a></div></div></pre>',
+  'art_original' => '1',
+  'art_password' => 'abcdefghijklmnopqrst',
+  'art_img' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010309s ] mysql:host=127.0.0.1;dbname=newbie;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nb_article` [ RunTime:0.009880s ]
+[ sql ] [ SQL ] INSERT INTO `nb_article` (`art_title` , `art_author` , `art_img` , `art_date` , `art_content` , `art_content_md` , `art_excerpt` , `art_status` , `art_comment_status` , `art_password` , `art_name` , `art_modified` , `art_type` , `art_comment_count` , `art_view` , `art_original`) VALUES ('PHP time() 函数' , 0 , '' , 1516214445 , '
+```lang-php
+<?php
+$t=time();
+echo($t . \"<br>\");
+echo(date(\"Y-m-d\",$t));
+?>
+```
+' , '<pre data-start=\"1\" class=\"line-numbers language-php code-toolbar\" style=\"counter-reset: linenumber 0;\"><code class=\" language-php\"><span class=\"token php\"><span class=\"token delimiter\">&lt;?php</span>
+<span class=\"token variable\">$t</span><span class=\"token operator\">=</span><span class=\"token function\">time</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>
+<span class=\"token keyword\">echo</span><span class=\"token punctuation\">(</span><span class=\"token variable\">$t</span> <span class=\"token punctuation\">.</span> <span class=\"token string\">\"&lt;br&gt;\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>
+<span class=\"token keyword\">echo</span><span class=\"token punctuation\">(</span><span class=\"token function\">date</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"Y-m-d\"</span><span class=\"token punctuation\">,</span><span class=\"token variable\">$t</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>
+<span class=\"token delimiter\">?&gt;</span></span><span aria-hidden=\"true\" class=\"line-numbers-rows\"><span></span><span></span><span></span><span></span><span></span></span></code><div class=\"toolbar\"><div class=\"toolbar-item\"><a>Copy</a></div></div></pre>' , '实例
+返回当前时间的 Unix 时间戳，并格式化为日期：' , '1' , 1 , 'abcdefghijklmnopqrst' , '666' , 1516214445 , '1' , 0 , 1 , 1) [ RunTime:0.363703s ]
+---------------------------------------------------------------
+[ 2018-01-18T02:41:02+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.029332s][吞吐率：34.09req/s] [内存消耗：1,295.76kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:41:39+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027636s][吞吐率：36.18req/s] [内存消耗：1,161.16kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:42:19+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.034726s][吞吐率：28.80req/s] [内存消耗：1,295.76kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:43:58+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027785s][吞吐率：35.99req/s] [内存消耗：1,161.16kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:44:00+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.025260s][吞吐率：39.59req/s] [内存消耗：1,161.16kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:45:01+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.026375s][吞吐率：37.91req/s] [内存消耗：1,161.16kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:45:01+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.025060s][吞吐率：39.90req/s] [内存消耗：1,161.16kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:45:02+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027101s][吞吐率：36.90req/s] [内存消耗：1,161.16kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:45:46+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.059976s][吞吐率：16.67req/s] [内存消耗：1,160.55kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:47:46+08:00 ] 127.0.0.1 POST /Admin/article/add.html
+[ info ] www.nb.com/Admin/article/add.html [运行时间：0.570179s][吞吐率：1.75req/s] [内存消耗：1,935.06kb] [文件加载：67]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.nb.com',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '3542',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'art_title' => '测试文章',
+  'art_excerpt' => '测试文章',
+  'art_content' => '
+```lang-php
+<?php
+$t=time();
+echo($t . "<br>");
+echo(date("Y-m-d",$t));
+?>
+```
+# 一级标题
+
+## 二级标题
+
+### 三级标题
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+',
+  'art_content_md' => '<pre data-start="1" class="line-numbers language-php code-toolbar" style="counter-reset: linenumber 0;"><code class=" language-php"><span class="token php"><span class="token delimiter">&lt;?php</span>
+<span class="token variable">$t</span><span class="token operator">=</span><span class="token function">time</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">echo</span><span class="token punctuation">(</span><span class="token variable">$t</span> <span class="token punctuation">.</span> <span class="token string">"&lt;br&gt;"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">echo</span><span class="token punctuation">(</span><span class="token function">date</span><span class="token punctuation">(</span><span class="token string">"Y-m-d"</span><span class="token punctuation">,</span><span class="token variable">$t</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token delimiter">?&gt;</span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code><div class="toolbar"><div class="toolbar-item"><a>Copy</a></div></div></pre><h1>一级标题</h1><h2>二级标题</h2><h3>三级标题</h3><table><thead><tr><th>Tables</th><th align="center">Are</th><th align="right">Cool</th></tr></thead><tbody><tr><td>col 3 is</td><td align="center">right-aligned</td><td align="right">$1600</td></tr><tr><td>col 2 is</td><td align="center">centered</td><td align="right">$12</td></tr><tr><td>zebra stripes</td><td align="center">are neat</td><td align="right">$1</td></tr></tbody></table>',
+  'art_original' => '1',
+  'art_password' => 'dsagsdfg',
+  'art_img' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008648s ] mysql:host=127.0.0.1;dbname=newbie;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `nb_article` [ RunTime:0.009898s ]
+[ sql ] [ SQL ] INSERT INTO `nb_article` (`art_title` , `art_author` , `art_img` , `art_date` , `art_content` , `art_content_md` , `art_excerpt` , `art_status` , `art_comment_status` , `art_password` , `art_name` , `art_modified` , `art_type` , `art_comment_count` , `art_view` , `art_original`) VALUES ('测试文章' , 0 , '' , 1516214865 , '
+```lang-php
+<?php
+$t=time();
+echo($t . \"<br>\");
+echo(date(\"Y-m-d\",$t));
+?>
+```
+# 一级标题
+
+## 二级标题
+
+### 三级标题
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+' , '<pre data-start=\"1\" class=\"line-numbers language-php code-toolbar\" style=\"counter-reset: linenumber 0;\"><code class=\" language-php\"><span class=\"token php\"><span class=\"token delimiter\">&lt;?php</span>
+<span class=\"token variable\">$t</span><span class=\"token operator\">=</span><span class=\"token function\">time</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>
+<span class=\"token keyword\">echo</span><span class=\"token punctuation\">(</span><span class=\"token variable\">$t</span> <span class=\"token punctuation\">.</span> <span class=\"token string\">\"&lt;br&gt;\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>
+<span class=\"token keyword\">echo</span><span class=\"token punctuation\">(</span><span class=\"token function\">date</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"Y-m-d\"</span><span class=\"token punctuation\">,</span><span class=\"token variable\">$t</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>
+<span class=\"token delimiter\">?&gt;</span></span><span aria-hidden=\"true\" class=\"line-numbers-rows\"><span></span><span></span><span></span><span></span><span></span></span></code><div class=\"toolbar\"><div class=\"toolbar-item\"><a>Copy</a></div></div></pre><h1>一级标题</h1><h2>二级标题</h2><h3>三级标题</h3><table><thead><tr><th>Tables</th><th align=\"center\">Are</th><th align=\"right\">Cool</th></tr></thead><tbody><tr><td>col 3 is</td><td align=\"center\">right-aligned</td><td align=\"right\">$1600</td></tr><tr><td>col 2 is</td><td align=\"center\">centered</td><td align=\"right\">$12</td></tr><tr><td>zebra stripes</td><td align=\"center\">are neat</td><td align=\"right\">$1</td></tr></tbody></table>' , '测试文章' , '1' , 1 , 'dsagsdfg' , '666' , 1516214865 , '1' , 0 , 1 , 1) [ RunTime:0.505015s ]
+---------------------------------------------------------------
+[ 2018-01-18T02:57:28+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.027834s][吞吐率：35.93req/s] [内存消耗：1,295.67kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:58:11+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.029636s][吞吐率：33.74req/s] [内存消耗：1,252.20kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/write.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:58:33+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.023970s][吞吐率：41.72req/s] [内存消耗：1,286.73kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T02:58:33+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.020170s][吞吐率：49.58req/s] [内存消耗：1,018.33kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:01:12+08:00 ] 127.0.0.1 GET /Admin/article/comment.html
+[ info ] www.nb.com/Admin/article/comment.html [运行时间：0.030951s][吞吐率：32.31req/s] [内存消耗：1,271.50kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_comment.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:01:14+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.026308s][吞吐率：38.01req/s] [内存消耗：1,152.38kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/comment.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:01:14+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.015651s][吞吐率：63.89req/s] [内存消耗：1,018.33kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:01:15+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.026048s][吞吐率：38.39req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:01:16+08:00 ] 127.0.0.1 GET /Admin/menu/setting.html
+[ info ] www.nb.com/Admin/menu/setting.html [运行时间：0.060825s][吞吐率：16.44req/s] [内存消耗：1,252.19kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_setting.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:01:17+08:00 ] 127.0.0.1 GET /Admin/menu/manage.html
+[ info ] www.nb.com/Admin/menu/manage.html [运行时间：0.025950s][吞吐率：38.54req/s] [内存消耗：1,128.91kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/setting.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\menu\menu_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:04:48+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.029060s][吞吐率：34.41req/s] [内存消耗：1,286.73kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:04:48+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.016158s][吞吐率：61.89req/s] [内存消耗：1,018.33kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:06:07+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.026653s][吞吐率：37.52req/s] [内存消耗：1,286.80kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:06:07+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.016360s][吞吐率：61.12req/s] [内存消耗：1,018.33kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:07:11+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.029567s][吞吐率：33.82req/s] [内存消耗：1,286.80kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/menu/manage.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-18T03:07:12+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.020044s][吞吐率：49.89req/s] [内存消耗：1,018.33kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File

@@ -1,0 +1,162 @@
+/* markdown editor css */
+.layui-markdown-container{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row;
+    -webkit-flex-flow: row;
+}
+.layui-markdown-container>
+.layui-markdown-edit{
+    height: 100%;
+    flex: 1 1 50%;
+    -webkit-flex:1 1 50%;
+    order: 1;
+    -webkit-order: 1;
+    padding: 0;
+    overflow-y: scroll;
+}
+.layui-markdown-container>
+.layui-markdown-preview{
+    height: 100%;
+    flex: 1 1 50%;
+    -webkit-flex:1 1 50%;
+    order: 2;
+    -webkit-order: 2;
+    padding: 0;
+    overflow: hidden;
+}
+/*预览*/
+.layui-markdown-preview>
+#layui-markdown-show{
+    background: #F5F5F5;
+}
+.layui-markdown .tools {
+    position: relative;
+    display: block;
+    left: 0;
+    padding: 0 10px;
+    border-radius: 1px 0 0 0;
+    background-color: #64C8FF;
+    height: 40px;
+    overflow: hidden;
+}
+
+.layui-markdown .tools span {
+    cursor: pointer;
+    padding: 0 10px;
+    line-height: 38px;
+    color:  #FFFAFA;
+}
+.layui-markdown .tools span.tool-tip {
+    padding: 0;
+}
+@media screen and (max-width: 500px) {
+    .layui-markdown .tools span.tool-tip,
+    span.tool-tip{
+        display: none;
+    }
+}
+.layui-markdown .tools span.divide {
+    border-right: 1px solid #d2d2d2;
+    padding-right: 15px;
+    margin-right: 5px;
+}
+.layui-markdown .tools span.hide {
+    display: none;
+}
+
+.layui-markdown .tools span i {
+    padding-right: 6px;
+    font-size: 18px;
+    position: relative;
+    top: -1px;
+}
+
+.layui-markdown textarea {
+    width: 100%;
+    padding: 6px 10px;
+    font-family: 'YaHei Consolas Hybrid', Consolas, '微软雅黑', 'Meiryo UI',
+    'Malgun Gothic', 'Segoe UI', 'Trebuchet MS', Helvetica, Monaco, courier, monospace;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+}
+
+.layui-markdown textarea:hover {
+    border-color: #D2D2D2 !important;
+}
+
+.layui-markdown.full-screen {
+    position: fixed;
+    z-index: 1112;
+    width: 100%;
+    height: 100%;
+    top: -2px;
+    left: 0;
+}
+.article-preview.full,
+.layui-markdown.full-screen{
+    animation-name: bounceIn;
+    animation-fill-mode: both;
+    animation-duration: .1s;
+}
+.layui-markdown.full-screen textarea {
+    height: 100%;
+}
+.layui-markdown.half {
+    width: 50%;
+}
+.layui-markdown.half-right {
+    top:-2px;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    z-index: 1111;
+    height: 79%!important;
+    width: 50%;
+    right: 0;
+}
+/* markdown tools style */
+.btn-upload {
+    margin-left: 5px;
+    display: inline-block;
+    color: #1AA094;
+    border: 1px solid #1AA094;
+    transform: translateY(-2px);
+    font-size: 17px;
+    padding: 0 10px;
+}
+@media screen and (max-width: 800px) {
+    .btn-upload {
+        display: block;
+        margin-top: 10px;
+        margin-left: 0!important;
+    }
+    .layui-markdown-preview {
+        display: none;
+    }
+    .layui-markdown.half {
+        width: 100%;
+    }
+}
+/*滚动条*/
+.layui-markdown-scroll::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+}
+
+.layui-markdown-scroll::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+}
+
+.layui-markdown-scroll::-webkit-scrollbar-thumb {
+    background-color: #64C8FF;
+    border-radius: 5px;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%,
+                       color-stop(.5, rgba(255, 255, 255, .2)),
+                       color-stop(.5, transparent), to(transparent));
+}

@@ -1,0 +1,501 @@
+---------------------------------------------------------------
+[ 2018-01-19T11:34:07+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.478885s][吞吐率：2.09req/s] [内存消耗：1,219.06kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:34:07+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.036378s][吞吐率：27.49req/s] [内存消耗：898.69kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:34:08+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.nb.com/favicon.ico [运行时间：0.021607s][吞吐率：46.28req/s] [内存消耗：899.10kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:37:37+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.503902s][吞吐率：1.98req/s] [内存消耗：1,094.62kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:37:37+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.020622s][吞吐率：48.49req/s] [内存消耗：898.69kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:39:16+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.021283s][吞吐率：46.99req/s] [内存消耗：1,093.76kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:39:16+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.018437s][吞吐率：54.24req/s] [内存消耗：898.17kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'referer' => 'http://www.nb.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:39:17+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.nb.com/favicon.ico [运行时间：0.019589s][吞吐率：51.05req/s] [内存消耗：898.13kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:39:17+08:00 ] 127.0.0.1 GET /favicon.ico
+[ info ] www.nb.com/favicon.ico [运行时间：0.017553s][吞吐率：56.97req/s] [内存消耗：898.50kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:41:29+08:00 ] 127.0.0.1 GET /admin
+[ info ] www.nb.com/admin [运行时间：0.715330s][吞吐率：1.40req/s] [内存消耗：1,265.02kb] [文件加载：63]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\index\index.html [ array (
+  0 => 'server_info',
+  1 => 'now_info',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:44:16+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.021365s][吞吐率：46.81req/s] [内存消耗：1,094.55kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:44:16+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.019454s][吞吐率：51.40req/s] [内存消耗：898.90kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'referer' => 'http://www.nb.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:48:25+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.021776s][吞吐率：45.92req/s] [内存消耗：1,094.55kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:48:25+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.019554s][吞吐率：51.14req/s] [内存消耗：898.90kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'referer' => 'http://www.nb.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:54:12+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.021121s][吞吐率：47.35req/s] [内存消耗：1,094.55kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T11:54:12+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.018128s][吞吐率：55.16req/s] [内存消耗：898.90kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'referer' => 'http://www.nb.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T14:08:32+08:00 ] 127.0.0.1 GET /admin
+[ info ] www.nb.com/admin [运行时间：0.194153s][吞吐率：5.15req/s] [内存消耗：1,137.45kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\index\index.html [ array (
+  0 => 'server_info',
+  1 => 'now_info',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T14:08:50+08:00 ] 127.0.0.1 GET /Admin/article/index.html
+[ info ] www.nb.com/Admin/article/index.html [运行时间：0.093958s][吞吐率：10.64req/s] [内存消耗：1,152.08kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/admin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_manage.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T14:08:50+08:00 ] 127.0.0.1 GET /Admin/article/list.html?page=1&limit=10
+[ info ] www.nb.com/Admin/article/list.html?page=1&limit=10 [运行时间：0.037174s][吞吐率：26.90req/s] [内存消耗：1,018.33kb] [文件加载：54]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T14:08:52+08:00 ] 127.0.0.1 GET /Admin/article/comment.html
+[ info ] www.nb.com/Admin/article/comment.html [运行时间：0.077424s][吞吐率：12.92req/s] [内存消耗：1,148.23kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_comment.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T14:08:52+08:00 ] 127.0.0.1 GET /Admin/article/write.html
+[ info ] www.nb.com/Admin/article/write.html [运行时间：0.098775s][吞吐率：10.12req/s] [内存消耗：1,161.10kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/Admin/article/comment.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/admin/view\article\article_write.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T15:41:41+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.029253s][吞吐率：34.18req/s] [内存消耗：1,094.41kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-19T15:41:41+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.056492s][吞吐率：17.70req/s] [内存消耗：898.82kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'referer' => 'http://www.nb.com/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File

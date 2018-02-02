@@ -1,0 +1,767 @@
+---------------------------------------------------------------
+[ 2018-01-16T20:09:27+08:00 ] 127.0.0.1 GET /newbie/public/
+[ info ] localhost/newbie/public/ [运行时间：0.134908s][吞吐率：7.41req/s] [内存消耗：754.73kb] [文件加载：45]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T20:12:13+08:00 ] 127.0.0.1 GET /newbie/public/
+[ info ] localhost/newbie/public/ [运行时间：0.025597s][吞吐率：39.07req/s] [内存消耗：754.77kb] [文件加载：45]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'localhost',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:06:46+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.073173s][吞吐率：13.67req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:06:56+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.017386s][吞吐率：57.52req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:06:56+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.018123s][吞吐率：55.18req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:06:57+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.018300s][吞吐率：54.64req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:06:57+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.018125s][吞吐率：55.17req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:07:07+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.018465s][吞吐率：54.16req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '_xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:07:42+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.018056s][吞吐率：55.38req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=1|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:25+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.017293s][吞吐率：57.83req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:28+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.014697s][吞吐率：68.04req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:29+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.016142s][吞吐率：61.95req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:29+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.016252s][吞吐率：61.53req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:29+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.016142s][吞吐率：61.95req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:30+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.014764s][吞吐率：67.73req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:30+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.015744s][吞吐率：63.52req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:30+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.016221s][吞吐率：61.65req/s] [内存消耗：879.73kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:09:43+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.020006s][吞吐率：49.99req/s] [内存消耗：879.45kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:11:43+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.019716s][吞吐率：50.72req/s] [内存消耗：877.48kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:37:03+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.016893s][吞吐率：59.20req/s] [内存消耗：877.89kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:37:06+08:00 ] 127.0.0.1 GET /
+[ info ] nb.com/ [运行时间：0.016129s][吞吐率：62.00req/s] [内存消耗：877.40kb] [文件加载：52]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T21:38:10+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.087433s][吞吐率：11.44req/s] [内存消耗：1,219.13kb] [文件加载：61]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:08+08:00 ] 127.0.0.1 GET /
+[ info ] www.nb.com/ [运行时间：0.026705s][吞吐率：37.45req/s] [内存消耗：1,094.25kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:08+08:00 ] 127.0.0.1 GET /__PUBLIC__/newbie.css
+[ info ] www.nb.com/__PUBLIC__/newbie.css [运行时间：0.021580s][吞吐率：46.34req/s] [内存消耗：898.25kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:09+08:00 ] 127.0.0.1 GET /__PUBLIC__/layui/css/layui.css
+[ info ] www.nb.com/__PUBLIC__/layui/css/layui.css [运行时间：0.038388s][吞吐率：26.05req/s] [内存消耗：898.27kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:09+08:00 ] 127.0.0.1 GET /__PUBLIC__/swiper/swiper-3.4.2.min.css
+[ info ] www.nb.com/__PUBLIC__/swiper/swiper-3.4.2.min.css [运行时间：0.025494s][吞吐率：39.22req/s] [内存消耗：898.29kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:09+08:00 ] 127.0.0.1 GET /__PUBLIC__/layui/layui.js
+[ info ] www.nb.com/__PUBLIC__/layui/layui.js [运行时间：0.024545s][吞吐率：40.74req/s] [内存消耗：898.24kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:09+08:00 ] 127.0.0.1 GET /__PUBLIC__/swiper/swiper-3.4.2.min.js
+[ info ] www.nb.com/__PUBLIC__/swiper/swiper-3.4.2.min.js [运行时间：0.026652s][吞吐率：37.52req/s] [内存消耗：898.27kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:23:09+08:00 ] 127.0.0.1 GET /static/img/kg.jpg
+[ info ] www.nb.com/static/img/kg.jpg [运行时间：0.018983s][吞吐率：52.68req/s] [内存消耗：898.32kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.nb.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'www.nb.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:14+08:00 ] 0.0.0.0 GET /newbie/
+[ info ] localhost/newbie/ [运行时间：0.022253s][吞吐率：44.94req/s] [内存消耗：1,096.34kb] [文件加载：59]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] G:\web\phpStudy\PHPTutorial\WWW\newbie/application/index/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:14+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/newbie.css
+[ info ] localhost/newbie/__PUBLIC__/newbie.css [运行时间：0.021643s][吞吐率：46.20req/s] [内存消耗：900.16kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:15+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/swiper/swiper-3.4.2.min.js
+[ info ] localhost/newbie/__PUBLIC__/swiper/swiper-3.4.2.min.js [运行时间：0.045129s][吞吐率：22.16req/s] [内存消耗：900.18kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:15+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/layui/layui.js
+[ info ] localhost/newbie/__PUBLIC__/layui/layui.js [运行时间：0.021921s][吞吐率：45.62req/s] [内存消耗：900.16kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:15+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/swiper/swiper-3.4.2.min.css
+[ info ] localhost/newbie/__PUBLIC__/swiper/swiper-3.4.2.min.css [运行时间：0.023542s][吞吐率：42.48req/s] [内存消耗：900.20kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:15+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/layui/css/layui.css
+[ info ] localhost/newbie/__PUBLIC__/layui/css/layui.css [运行时间：0.022010s][吞吐率：45.43req/s] [内存消耗：900.17kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => 'text/css,*/*;q=0.1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:15+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/layui/layui.js
+[ info ] localhost/newbie/__PUBLIC__/layui/layui.js [运行时间：0.019721s][吞吐率：50.71req/s] [内存消耗：900.16kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-01-16T23:32:15+08:00 ] 0.0.0.0 GET /newbie/__PUBLIC__/swiper/swiper-3.4.2.min.js
+[ info ] localhost/newbie/__PUBLIC__/swiper/swiper-3.4.2.min.js [运行时间：0.019516s][吞吐率：51.24req/s] [内存消耗：900.18kb] [文件加载：55]
+[ info ] [ LANG ] G:\web\phpStudy\PHPTutorial\WWW\newbie\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; _xsrf=2|b2051c7d|ce524a4896f2da0ec847a81b5ebeaaf3|1514904801; username-localhost-8889="2|1:0|10:1515678697|23:username-localhost-8889|44:MDI0NTc4OTA4ZWRjNDQwNTg3ZGVmYTk3MDFjNWE1MTM=|1d0468d757e93ca03b7bc5941887360e7795767adc01aa76800d540074f91d94"; username-localhost-8888="2|1:0|10:1516083111|23:username-localhost-8888|44:NzdmZjljMTgzYTVkNGI2MTg5MjBkMjU0OTY1YzNlMGU=|9d65e4e16ef50fa60873b2aebe0eb954cfb436dfbbc9a288dc523a6601d8208a"',
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/newbie/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File

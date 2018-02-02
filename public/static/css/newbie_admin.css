@@ -1,0 +1,119 @@
+/*顶部导航栏*/
+
+.layui-layout-admin .layui-header {
+	z-index: 1000;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+	position: absolute;
+	left: 0;
+	top: 15px;
+}
+
+.logo img {
+	width: 31px;
+	height: 31px;
+}
+
+.logo span {
+	top: 2px;
+	color: white;
+	font-size: 20px;
+}
+
+.layui-header .layui-nav {
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding: 0;
+	background: none;
+}
+
+.layui-header .layui-nav .layui-nav-item a .layui-nav-more {
+	display: none;
+}
+
+.layui-header .layui-nav .layui-nav-item a .layui-icon {
+	font-size: 30px;
+	color: white;
+}
+
+.layui-header .layui-nav .layui-nav-item .layui-nav-child {
+	top: 60px;
+	left: auto;
+	right: 0px;
+	margin: 5px 0;
+	min-width: 240px;
+	border-radius: 0px;
+	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	z-index: 1000;
+}
+
+.layui-header .layui-nav .layui-nav-item .layui-nav-child dd.layui-this {
+	background-color: #fff;
+	color: #333;
+}
+
+.layui-header .layui-nav .layui-nav-item .layui-nav-child a {
+	color: #333;
+}
+
+
+/*侧边栏*/
+
+.layui-layout-admin .layui-side {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 999;
+	box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+	overflow-x: hidden;
+}
+
+.layui-side .layui-nav .layui-nav-header input {
+	display: inline-block;
+	height: 40px;
+	width: 155px;
+	border: none;
+	color: #333;
+}
+
+.layui-side .layui-nav .layui-nav-header button {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	padding: 0 10px;
+	background-color: #fff;
+	color: #333;
+}
+
+
+/*body*/
+
+.layui-body .layui-tab {
+	margin: 5px 0;
+}
+
+.layui-body .layui-tab .layui-tab-title {
+	padding: 0 10px;
+	z-index: 990;
+}
+
+.layui-body .layui-tab .layui-tab-content {
+	position: absolute;
+	top: 45px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 5px 10px;
+	overflow-y: scroll;
+	z-index: 0;
+}
+
+.layui-body .layui-tab .layui-tab-content .layui-tab-item {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}

@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>{block name="title"}标题{/block}</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="__PUBLIC__/img/logo.bmp">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {load href="__PUBLIC__/layui/css/layui.css" /}
+    {load href="__PUBLIC__/css/newbie_admin.css" /}
+    {block name="head_resource"}{/block}
+    {block name="style"}{/block}
+    
+</head>
+
+<body>
+    <div class="layui-layout layui-layout-admin">
+    {block name="top_nav"}{include file="public/top_nav" /}{/block}
+    {block name="side_nav"}{include file="public/side_nav" /}{/block}
+    <div class="layui-body">{block name="main"}{/block}</div>
+    {block name="right"}{/block}
+    {block name="footer"}{include file="public/admin_footer" /}{/block}
+    </div>
+</body>
+{load href="__PUBLIC__/layui/layui.js,__PUBLIC__/admin_index.js" /}
+{block name="footer_resource"}{/block}
+{block name="script"}{/block}
+</html>
